@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
+# Author: Ruiting Xiao
 """
 EEG Source Localization using L-SBL with Pre-normalized Dataset (train + valA + valB)
 ======================================================================================
