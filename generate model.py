@@ -13,6 +13,7 @@ Generates four essential files for EEG source localization:
 3. Training set Source Locations
 4. Validation set Source Locations
 
+Author: Ruiting Xiao
 Author: Based on Marco's implementation
 """
 
