@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
+# Author: Ruiting Xiao
 """
 EEG Source Localization Training Script using L-SBL (Learned Sparse Bayesian Learning)
 =======================================================================================
