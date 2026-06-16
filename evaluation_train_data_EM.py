@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
+# Author: Ruiting Xiao
 """
 Evaluate an EM-based neural network on the TRAINING dataset.
 
