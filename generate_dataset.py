@@ -20,7 +20,7 @@ Key Features:
 - GPU acceleration support
 - Batch-wise file storage for memory efficiency
 - Reproducible with seed control
-
+Author: Ruiting Xiao
 Author: Based on Marco's implementation
 """
 
