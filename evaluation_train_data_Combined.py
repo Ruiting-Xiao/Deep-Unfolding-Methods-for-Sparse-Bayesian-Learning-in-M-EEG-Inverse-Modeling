@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
+# Author: Ruiting Xiao
 """
 Evaluate the Combined Model (Mode 4) on the TRAINING dataset.
 
